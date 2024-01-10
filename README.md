@@ -25,7 +25,7 @@ Getting a structured data of the Adventure work wasn’t difficult cause I had t
 ## Data Cleaning and Preparation
 After getting the Excel dataset ready, I had to format and clean the data set by removing duplicates and to make sure there are no empty cells and stuffs that will lead to a biased analysis. Also to enable filtering the data set.
 ![](CustomersView2.jpg)
-The following steps where done is cleaning the file: • Borders were put on the document. Font style was changed to suit the taste of the Analyst. The column "Accessment" was created to indicate the product size, I also made sure my dataset was in a table to enable better visualization
+The following steps where done is cleaning the file: • Borders were put on the document. Font style was changed to suit the taste of the Analyst. I also made sure my dataset was in a table to enable better visualization
 
 ## Data Anaylsis and Visualization
 The dataset was analyzed using Excel table. Below is the dashboard that gives an Anaylitical report on the sum of revenue by Country, Gender and Age band.
